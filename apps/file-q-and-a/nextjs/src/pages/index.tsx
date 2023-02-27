@@ -33,7 +33,7 @@ export default function FileQandA() {
 
         <FileQandAArea files={files} />
       </div>
-      <div className="bg-black p-8"><div className="text-white text-center text-sm">Designed by Maurice Holda</div></div>
+      <div className="bg-black p-8"><div className="text-white text-center text-sm">Designed by Maurice Holda - 2023</div></div>
     </div>
   );
 }
